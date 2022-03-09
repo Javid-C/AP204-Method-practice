@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\bin\Debug\netcoreapp3.1\AP204_Methods_Practice.exe
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\bin\Debug\netcoreapp3.1\AP204_Methods_Practice.deps.json
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\bin\Debug\netcoreapp3.1\AP204_Methods_Practice.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\bin\Debug\netcoreapp3.1\AP204_Methods_Practice.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\bin\Debug\netcoreapp3.1\AP204_Methods_Practice.dll
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\bin\Debug\netcoreapp3.1\AP204_Methods_Practice.pdb
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\obj\Debug\netcoreapp3.1\AP204_Methods_Practice.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\obj\Debug\netcoreapp3.1\AP204_Methods_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\obj\Debug\netcoreapp3.1\AP204_Methods_Practice.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\obj\Debug\netcoreapp3.1\AP204_Methods_Practice.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\obj\Debug\netcoreapp3.1\AP204_Methods_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\obj\Debug\netcoreapp3.1\AP204_Methods_Practice.dll
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\obj\Debug\netcoreapp3.1\AP204_Methods_Practice.pdb
+C:\Users\Lenovo\source\repos\AP204_Methods_Practice\AP204_Methods_Practice\obj\Debug\netcoreapp3.1\AP204_Methods_Practice.genruntimeconfig.cache
